@@ -1,0 +1,134 @@
+.group-child30 {
+  position: absolute;
+  top: 0;
+  left: 204px;
+  background-color: var(--color-lightskyblue-100);
+  width: 393px;
+  height: 852px;
+}
+.bush-1-icon4 {
+  position: absolute;
+  top: 37px;
+  left: 204px;
+  width: 744px;
+  height: 695px;
+  object-fit: cover;
+}
+.group-child31 {
+  position: absolute;
+  top: 385px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-moccasin);
+  width: 801px;
+  height: 889px;
+}
+.cloud-rain-14,
+.sad-car-14 {
+  position: absolute;
+  top: 201px;
+  left: 264px;
+  width: 273px;
+  height: 256px;
+  object-fit: cover;
+}
+.cloud-rain-14 {
+  top: 0;
+  left: 302px;
+  width: 197px;
+  height: 194px;
+}
+.jawabanmu-salah4 {
+  position: absolute;
+  top: 510px;
+  left: 252px;
+  font-weight: 600;
+}
+.maaf4 {
+  position: absolute;
+  top: 464px;
+  left: 346px;
+  font-size: var(--font-size-17xl);
+}
+.ketuk-untuk-ke4 {
+  margin: 0;
+}
+.ketuk-untuk-ke-container4 {
+  position: absolute;
+  top: 579px;
+  left: 265px;
+  font-size: var(--font-size-3xl);
+  line-height: 124%;
+  font-weight: 600;
+  color: var(--color-gray-100);
+}
+.bush-1-parent2 {
+  position: absolute;
+  top: 145px;
+  left: 0;
+  width: 801px;
+  height: 1274px;
+}
+.group-child32,
+.group-child33 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 194px;
+  height: 43px;
+}
+.group-child33 {
+  left: -4px;
+  width: 147px;
+  height: 51px;
+}
+.aminah4,
+.lvl-14 {
+  position: absolute;
+  top: 10px;
+  left: 50px;
+}
+.lvl-14 {
+  left: 149px;
+  color: var(--color-darkslategray);
+}
+.group-child34 {
+  position: absolute;
+  width: 16.49%;
+  top: 6px;
+  right: 78.35%;
+  left: 5.15%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 32px;
+}
+.vector-parent2 {
+  position: absolute;
+  top: 50px;
+  left: 304px;
+  width: 194px;
+  height: 43px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.rectangle-parent11 {
+  position: absolute;
+  top: 0;
+  left: -204px;
+  width: 801px;
+  height: 1419px;
+}
+.jawaban-benar2 {
+  position: relative;
+  background-color: var(--color-lightskyblue-100);
+  width: 100%;
+  height: 852px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-poppins);
+}

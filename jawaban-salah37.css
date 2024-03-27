@@ -1,0 +1,118 @@
+.group-child792 {
+  position: absolute;
+  top: 0;
+  left: 204px;
+  background-color: var(--color-lightskyblue-100);
+  width: 393px;
+  height: 852px;
+}
+.bush-1-icon77 {
+  position: absolute;
+  top: 182px;
+  left: 204px;
+  width: 744px;
+  height: 695px;
+  object-fit: cover;
+}
+.group-child793,
+.group-child794 {
+  position: absolute;
+  top: 0;
+  left: 304px;
+  border-radius: var(--br-xl);
+  width: 194px;
+  height: 43px;
+}
+.group-child794 {
+  left: 300px;
+  width: 147px;
+  height: 51px;
+}
+.aminah117,
+.lvl-1117 {
+  position: absolute;
+  top: 10px;
+  left: 354px;
+}
+.lvl-1117 {
+  left: 453px;
+  color: var(--color-darkslategray);
+}
+.group-child795 {
+  position: absolute;
+  width: 100%;
+  top: 6px;
+  right: -25.47%;
+  left: 25.47%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 1363px;
+}
+.vector-parent109 {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  width: 801px;
+  height: 1369px;
+  text-align: left;
+  color: var(--color-white);
+}
+.cloud-rain-157,
+.sad-car-157 {
+  position: absolute;
+  top: 346px;
+  left: 264px;
+  width: 273px;
+  height: 256px;
+  object-fit: cover;
+}
+.cloud-rain-157 {
+  top: 145px;
+  left: 302px;
+  width: 197px;
+  height: 194px;
+}
+.jawabanmu-salah57 {
+  position: absolute;
+  top: 655px;
+  left: 252px;
+  font-size: var(--font-size-11xl);
+  font-weight: 600;
+}
+.maaf57 {
+  position: absolute;
+  top: 609px;
+  left: 346px;
+  font-size: var(--font-size-17xl);
+}
+.ketuk-untuk-ke77 {
+  margin: 0;
+}
+.ketuk-untuk-ke-container77 {
+  position: absolute;
+  top: 724px;
+  left: 265px;
+  font-size: var(--font-size-3xl);
+  line-height: 124%;
+  font-weight: 600;
+  color: var(--color-gray-100);
+}
+.rectangle-parent264 {
+  position: absolute;
+  top: 0;
+  left: -204px;
+  width: 801px;
+  height: 1419px;
+}
+.jawaban-salah37 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 852px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray);
+  font-family: var(--font-poppins);
+}

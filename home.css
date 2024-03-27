@@ -1,0 +1,627 @@
+.frame-child,
+.frame-item {
+  position: absolute;
+  height: 3.16%;
+  width: 86.76%;
+  top: 95.96%;
+  right: 7.06%;
+  bottom: 0.88%;
+  left: 6.18%;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-palegoldenrod-200);
+}
+.frame-item {
+  height: 4.91%;
+  width: 74.71%;
+  top: 95.09%;
+  right: 13.24%;
+  bottom: 0;
+  left: 12.06%;
+  background-color: var(--color-goldenrod);
+}
+.vector-icon486,
+.vuesaxboldhome-2-icon115,
+.vuesaxlinearsearch-normal-icon116 {
+  position: absolute;
+  height: 3.16%;
+  width: 10.59%;
+  top: 95.96%;
+  right: 67.94%;
+  bottom: 0.88%;
+  left: 21.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.vector-icon486,
+.vuesaxlinearsearch-normal-icon116 {
+  height: 2.98%;
+  width: 10%;
+  top: 96.05%;
+  right: 45.29%;
+  bottom: 0.96%;
+  left: 44.71%;
+}
+.vector-icon486 {
+  height: 2.63%;
+  width: 9.12%;
+  top: 96.23%;
+  right: 23.53%;
+  bottom: 1.14%;
+  left: 67.35%;
+}
+.group-buah-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-palegreen);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 161px;
+  height: 115px;
+}
+.buah-buahan {
+  position: absolute;
+  top: 128px;
+  left: 0;
+}
+.ketahui-buah-buahan-yang {
+  position: absolute;
+  top: 149px;
+  left: 0;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  color: var(--color-dimgray);
+  display: inline-block;
+  width: 151px;
+}
+.notokiwi-fruit-icon {
+  position: absolute;
+  top: 15px;
+  left: 38px;
+  width: 86px;
+  height: 86px;
+  overflow: hidden;
+}
+.group-buah {
+  position: absolute;
+  top: 64px;
+  left: 179px;
+  width: 161px;
+  height: 185px;
+  cursor: pointer;
+}
+.group-hewan-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-lightskyblue-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 161px;
+  height: 115px;
+}
+.fluent-emoji-flathippopotamus-icon2 {
+  position: absolute;
+  top: 23px;
+  left: 26px;
+  width: 108px;
+  height: 70px;
+  overflow: hidden;
+}
+.group-hewan {
+  position: absolute;
+  top: 64px;
+  left: 1px;
+  width: 161px;
+  height: 185px;
+  cursor: pointer;
+}
+.grup-angka-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-lightsalmon);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 161px;
+  height: 115px;
+}
+.noto-v1man-teacher-light-skin-icon {
+  position: absolute;
+  top: 16px;
+  left: 41px;
+  width: 82px;
+  height: 82px;
+  overflow: hidden;
+}
+.grup-angka {
+  position: absolute;
+  top: 270px;
+  left: 179px;
+  width: 161px;
+  height: 185px;
+  cursor: pointer;
+}
+.grup-huruf-child {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-lightcoral-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 161px;
+  height: 115px;
+}
+.ketahui-dan-kenali1,
+.transportasi {
+  position: absolute;
+  top: 133px;
+  left: 1px;
+}
+.ketahui-dan-kenali1 {
+  top: 154px;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  color: var(--color-dimgray);
+  display: inline-block;
+  width: 151px;
+}
+.fluent-emoji-flatpolice-car-icon {
+  position: absolute;
+  top: 0;
+  left: 30px;
+  width: 105px;
+  height: 105px;
+  overflow: hidden;
+}
+.grup-huruf {
+  position: absolute;
+  top: 265px;
+  left: 0;
+  width: 161px;
+  height: 190px;
+  cursor: pointer;
+}
+.flashcards {
+  position: absolute;
+  top: 0;
+  left: 80px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslategray);
+}
+.group-buah-parent {
+  position: absolute;
+  top: 595px;
+  left: 0;
+  width: 340px;
+  height: 455px;
+  color: var(--color-gray);
+}
+.lanjutkan-quizmu {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  font-size: var(--font-size-13xl);
+}
+.lihat-lainnya {
+  position: absolute;
+  top: 39px;
+  left: 109px;
+  cursor: pointer;
+}
+.vector-icon487,
+.vector-icon488,
+.vector-icon489,
+.vector-icon490 {
+  position: absolute;
+  width: 48.94%;
+  top: 17.6px;
+  right: 24.6%;
+  left: 26.46%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 54.02px;
+}
+.vector-icon488,
+.vector-icon489,
+.vector-icon490 {
+  width: 50.93%;
+  top: 16px;
+  right: 23.6%;
+  left: 25.47%;
+  height: 57.23px;
+}
+.vector-icon489,
+.vector-icon490 {
+  width: 34.67%;
+  top: 76.98px;
+  right: 36.68%;
+  left: 28.65%;
+  height: 21.02px;
+}
+.vector-icon490 {
+  width: 5.43%;
+  top: 83.4px;
+  right: 51.28%;
+  left: 43.29%;
+  height: 18.8px;
+}
+.vector-icon491,
+.vector-icon492,
+.vector-icon493,
+.vector-icon494 {
+  position: absolute;
+  width: 30.26%;
+  top: 49.4px;
+  right: 38.86%;
+  left: 30.87%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 35.55px;
+}
+.vector-icon492,
+.vector-icon493,
+.vector-icon494 {
+  width: 25.5%;
+  top: 22.77px;
+  right: 41.25%;
+  left: 33.26%;
+  height: 53.46px;
+}
+.vector-icon493,
+.vector-icon494 {
+  width: 15.22%;
+  top: 51.43px;
+  right: 46.39%;
+  left: 38.39%;
+  height: 6.63px;
+}
+.vector-icon494 {
+  width: 8.3%;
+  top: 65.94px;
+  right: 49.85%;
+  left: 41.86%;
+  height: 3.95px;
+}
+.vector-icon495,
+.vector-icon496,
+.vector-icon497,
+.vector-icon498 {
+  position: absolute;
+  width: 4.19%;
+  top: 60.87px;
+  right: 51.9%;
+  left: 43.91%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 2.29px;
+}
+.vector-icon496,
+.vector-icon497,
+.vector-icon498 {
+  width: 28.94%;
+  top: 20.45px;
+  right: 39.51%;
+  left: 31.55%;
+  height: 35.17px;
+}
+.vector-icon497,
+.vector-icon498 {
+  width: 15.14%;
+  top: 51.56px;
+  right: 46.44%;
+  left: 38.41%;
+  height: 6.6px;
+}
+.vector-icon498 {
+  width: 17.25%;
+  top: 76.74px;
+  right: 45.37%;
+  left: 37.38%;
+  height: 25.45px;
+}
+.vector-icon499,
+.vector-icon500,
+.vector-icon501,
+.vector-icon502 {
+  position: absolute;
+  width: 9.7%;
+  top: 435.56px;
+  right: -55.27%;
+  left: 145.57%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 11.08px;
+}
+.vector-icon500,
+.vector-icon501,
+.vector-icon502 {
+  width: 11.02%;
+  top: 48.54px;
+  right: 55.25%;
+  left: 33.73%;
+  height: 13.09px;
+}
+.vector-icon501,
+.vector-icon502 {
+  width: 3.63%;
+  top: 48.79px;
+  right: 63.51%;
+  left: 32.86%;
+  height: 4.96px;
+}
+.vector-icon502 {
+  width: 3.81%;
+  top: 48.58px;
+  right: 62.46%;
+  left: 33.74%;
+  height: 5.44px;
+}
+.vector-icon503,
+.vector-icon504,
+.vector-icon505,
+.vector-icon506 {
+  position: absolute;
+  width: 9.7%;
+  top: 435.56px;
+  right: -68.6%;
+  left: 158.9%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 11.08px;
+}
+.vector-icon504,
+.vector-icon505,
+.vector-icon506 {
+  width: 11.03%;
+  top: 48.54px;
+  right: 41.91%;
+  left: 47.06%;
+  height: 13.09px;
+}
+.vector-icon505,
+.vector-icon506 {
+  width: 3.63%;
+  top: 48.79px;
+  right: 41.04%;
+  left: 55.33%;
+  height: 4.96px;
+}
+.vector-icon506 {
+  width: 3.81%;
+  top: 48.58px;
+  right: 41.92%;
+  left: 54.28%;
+  height: 5.44px;
+}
+.vector-icon507,
+.vector-icon508,
+.vector-icon509,
+.vector-icon510 {
+  position: absolute;
+  width: 4.16%;
+  top: 50.41px;
+  right: 52.02%;
+  left: 43.81%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 3.36px;
+}
+.vector-icon508,
+.vector-icon509,
+.vector-icon510 {
+  width: 6.21%;
+  top: 46.55px;
+  right: 27.51%;
+  left: 66.29%;
+  height: 43.86px;
+}
+.vector-icon509,
+.vector-icon510 {
+  width: 9.52%;
+  top: 84.83px;
+  right: 29.5%;
+  left: 60.98%;
+  height: 14.73px;
+}
+.vector-icon510 {
+  width: 5.59%;
+  top: 86.67px;
+  right: 30.29%;
+  left: 64.12%;
+  height: 12.79px;
+}
+.rectangle-parent662 {
+  position: absolute;
+  top: 77px;
+  left: 179px;
+  width: 161px;
+  height: 185px;
+  cursor: pointer;
+  text-align: left;
+  color: var(--color-gray);
+}
+.group-child1828 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-lightcoral-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 161px;
+  height: 115px;
+}
+.ketahui-dan-kenali3,
+.quiz-transportasi {
+  position: absolute;
+  top: 128px;
+  left: 1px;
+}
+.ketahui-dan-kenali3 {
+  top: 149px;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  color: var(--color-dimgray);
+  display: inline-block;
+  width: 151px;
+}
+.group-icon4 {
+  position: absolute;
+  width: 57.07%;
+  top: 21.25px;
+  right: 20.22%;
+  left: 22.71%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 72.19px;
+}
+.rectangle-parent663 {
+  position: absolute;
+  top: 77px;
+  left: 0;
+  width: 161px;
+  height: 185px;
+  cursor: pointer;
+  text-align: left;
+  color: var(--color-gray);
+}
+.lanjutkan-quizmu-parent,
+.wow {
+  position: absolute;
+  text-align: center;
+}
+.lanjutkan-quizmu-parent {
+  top: 309px;
+  left: 0;
+  width: 340px;
+  height: 262px;
+}
+.wow {
+  top: 0;
+  left: 67px;
+}
+.kamu-sudah-bermain {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+}
+.group-child1829,
+.group-child1830 {
+  position: absolute;
+  border-radius: 50%;
+}
+.group-child1829 {
+  top: 0;
+  left: 0;
+  background-color: #fbf6af;
+  width: 150px;
+  height: 150px;
+}
+.group-child1830 {
+  top: 14px;
+  left: 14px;
+  background-color: var(--color-goldenrod);
+  width: 122px;
+  height: 122px;
+}
+.b,
+.kali {
+  position: absolute;
+  top: 20px;
+  left: 57px;
+}
+.kali {
+  top: 84px;
+  left: 53px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.ellipse-parent {
+  position: absolute;
+  top: 78px;
+  left: 46px;
+  width: 150px;
+  height: 150px;
+  font-size: var(--font-size-41xl);
+  color: var(--color-white);
+}
+.wow-parent {
+  position: absolute;
+  top: 63px;
+  left: 48px;
+  width: 241px;
+  height: 228px;
+  font-size: var(--font-size-17xl);
+}
+.group-child1831,
+.group-child1832 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 194px;
+  height: 43px;
+}
+.group-child1832 {
+  left: -4px;
+  width: 147px;
+  height: 51px;
+}
+.group-child1833 {
+  position: absolute;
+  width: 16.49%;
+  top: 6px;
+  right: 80.41%;
+  left: 3.09%;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  height: 32px;
+}
+.notolion-icon {
+  position: absolute;
+  top: 9px;
+  left: 8px;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+}
+.aminah199,
+.lvl-1198 {
+  position: absolute;
+  top: 10px;
+  left: 50px;
+}
+.lvl-1198 {
+  left: 149px;
+  color: var(--color-darkslategray);
+}
+.vector-parent176 {
+  position: absolute;
+  top: 0;
+  left: 72px;
+  width: 194px;
+  height: 43px;
+  color: var(--color-white);
+}
+.frame-div {
+  position: absolute;
+  top: 50px;
+  left: 26px;
+  width: 340px;
+  height: 1140px;
+}
+.home {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1208px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray);
+  font-family: var(--font-poppins);
+}

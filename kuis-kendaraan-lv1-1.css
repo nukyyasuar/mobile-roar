@@ -1,0 +1,272 @@
+.kuis-kendaraan-lv1-1-child {
+  position: absolute;
+  top: -49px;
+  left: 0;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-lightcoral-200);
+  width: 393px;
+  height: 818px;
+}
+.group-child101 {
+  border-radius: var(--br-6xs);
+  background-color: var(--color-palegreen);
+  width: 103px;
+  height: 40px;
+}
+.group-child101,
+.next5,
+.vector-icon29 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.vector-icon29 {
+  width: 26.47%;
+  top: 5px;
+  right: 0;
+  left: 73.53%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 13px;
+}
+.next-parent3 {
+  position: absolute;
+  top: 9px;
+  left: 18px;
+  width: 68px;
+  height: 24px;
+}
+.rectangle-parent34 {
+  position: absolute;
+  top: 696px;
+  left: 246px;
+  width: 103px;
+  height: 40px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.kuis-kendaraan-lv1-1-item {
+  position: absolute;
+  top: 235px;
+  left: 41px;
+  width: 313px;
+  height: 162px;
+  object-fit: cover;
+}
+.kuis-kendaraan4 {
+  position: absolute;
+  top: 121px;
+  left: 54px;
+  font-size: var(--font-size-15xl);
+  color: var(--color-white);
+}
+.group-child102 {
+  top: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  width: 311px;
+  height: 15px;
+}
+.div7,
+.group-child102,
+.group-child103 {
+  position: absolute;
+  left: 0;
+}
+.group-child103 {
+  top: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--bro);
+  width: 62.2px;
+  height: 15px;
+}
+.div7 {
+  top: 19px;
+  font-weight: 600;
+}
+.rectangle-parent35 {
+  position: absolute;
+  top: 175px;
+  left: 40px;
+  width: 311px;
+  height: 46px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.kendaraan-apakah-aku1 {
+  position: absolute;
+  top: 411px;
+  left: 48px;
+  font-size: var(--font-size-13xl);
+  line-height: 115%;
+  font-weight: 600;
+  display: inline-block;
+  width: 293px;
+}
+.group-child104,
+.kuis-kendaraan-lv1-1-inner {
+  position: absolute;
+  top: 503px;
+  left: 198px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 151px;
+  height: 65px;
+}
+.group-child104 {
+  top: 0;
+  left: 0;
+}
+.mobil1,
+.rectangle-parent36 {
+  position: absolute;
+  top: 503px;
+  left: 38px;
+  width: 151px;
+  height: 65px;
+  cursor: pointer;
+}
+.mobil1 {
+  left: 198px;
+  line-height: 115%;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-parent37 {
+  top: 578px;
+  left: 38px;
+  cursor: pointer;
+}
+.motor,
+.rectangle-parent37,
+.rectangle-parent38 {
+  position: absolute;
+  width: 151px;
+  height: 65px;
+}
+.motor {
+  top: 0;
+  left: 0;
+  line-height: 115%;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-parent38 {
+  top: 578px;
+  left: 198px;
+  cursor: pointer;
+}
+.kuis-kendaraan-lv1-1-child1,
+.kuis-kendaraan-lv1-1-child2 {
+  position: absolute;
+  height: 4.23%;
+  width: 75.06%;
+  top: 93.08%;
+  right: 12.47%;
+  bottom: 2.7%;
+  left: 12.47%;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-palegoldenrod-200);
+}
+.kuis-kendaraan-lv1-1-child2 {
+  height: 6.57%;
+  width: 64.63%;
+  top: 91.9%;
+  right: 17.81%;
+  bottom: 1.53%;
+  left: 17.56%;
+  background-color: var(--color-goldenrod);
+}
+.vector-icon30,
+.vuesaxboldhome-2-icon7,
+.vuesaxlinearsearch-normal-icon7 {
+  position: absolute;
+  height: 4.23%;
+  width: 9.16%;
+  top: 93.08%;
+  right: 65.14%;
+  bottom: 2.7%;
+  left: 25.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.vector-icon30,
+.vuesaxlinearsearch-normal-icon7 {
+  height: 3.99%;
+  width: 8.65%;
+  top: 93.19%;
+  right: 45.55%;
+  bottom: 2.82%;
+  left: 45.8%;
+}
+.vector-icon30 {
+  height: 3.52%;
+  width: 7.89%;
+  top: 93.43%;
+  right: 26.72%;
+  bottom: 3.05%;
+  left: 65.39%;
+}
+.group-child107,
+.group-child108 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 194px;
+  height: 43px;
+}
+.group-child108 {
+  left: -4px;
+  width: 147px;
+  height: 51px;
+}
+.aminah15,
+.lvl-115 {
+  position: absolute;
+  top: 10px;
+  left: 50px;
+}
+.lvl-115 {
+  left: 149px;
+  color: var(--color-darkslategray);
+}
+.group-child109 {
+  position: absolute;
+  width: 16.49%;
+  top: 6px;
+  right: 78.35%;
+  left: 5.15%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 32px;
+}
+.vector-parent13 {
+  position: absolute;
+  top: 50px;
+  left: 100px;
+  width: 194px;
+  height: 43px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.kuis-kendaraan-lv1-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 852px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-poppins);
+}

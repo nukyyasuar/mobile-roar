@@ -1,0 +1,372 @@
+.kuis-buah-lv2-4-child {
+  position: absolute;
+  top: -49px;
+  left: 0;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-palegreen);
+  width: 393px;
+  height: 818px;
+}
+.kuis-buah-lv2-4-inner {
+  position: absolute;
+  top: 235px;
+  left: 38px;
+  width: 313px;
+  height: 162px;
+  object-fit: cover;
+}
+.group-child257 {
+  border-radius: var(--br-6xs);
+  background-color: var(--color-lightskyblue-100);
+  width: 103px;
+  height: 40px;
+}
+.group-child257,
+.next10,
+.vector-icon57 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.vector-icon57 {
+  width: 26.47%;
+  top: 5px;
+  right: 0;
+  left: 73.53%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 13px;
+}
+.next-parent8 {
+  position: absolute;
+  top: 9px;
+  left: 18px;
+  width: 68px;
+  height: 24px;
+}
+.group-child258,
+.rectangle-parent85 {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+}
+.rectangle-parent85 {
+  top: 696px;
+  left: 246px;
+  cursor: pointer;
+  text-align: left;
+  color: var(--color-black);
+}
+.group-child258 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-lightsalmon-100);
+}
+.prev10,
+.vector-icon58 {
+  position: absolute;
+  top: 0;
+  left: 31px;
+}
+.vector-icon58 {
+  width: 27.27%;
+  top: 5px;
+  right: 72.73%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 13px;
+}
+.prev-parent8 {
+  position: absolute;
+  top: 9px;
+  left: 19px;
+  width: 66px;
+  height: 24px;
+}
+.rectangle-parent86 {
+  position: absolute;
+  top: 698px;
+  left: 38px;
+  width: 103px;
+  height: 40px;
+  cursor: pointer;
+  text-align: left;
+  color: var(--color-black);
+}
+.kuis-buah-lv2-4-child1,
+.kuis-buah-lv2-4-child2 {
+  position: absolute;
+  top: 50px;
+  left: 100px;
+  border-radius: var(--br-xl);
+  width: 194px;
+  height: 43px;
+}
+.kuis-buah-lv2-4-child2 {
+  left: 96px;
+  width: 147px;
+  height: 51px;
+}
+.aminah41,
+.lvl-141 {
+  position: absolute;
+  top: 60px;
+  text-align: left;
+}
+.aminah41 {
+  left: 150px;
+  color: var(--color-white);
+}
+.lvl-141 {
+  left: 249px;
+}
+.kuis-buah-lv2-4-child3 {
+  position: absolute;
+  width: 8.14%;
+  top: 56px;
+  right: 63.87%;
+  left: 27.99%;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  height: 32px;
+}
+.vector-icon59 {
+  position: absolute;
+  width: 5.94%;
+  top: 59.84px;
+  right: 65.01%;
+  left: 29.05%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 26.16px;
+}
+.vector-icon60,
+.vector-icon61,
+.vector-icon62,
+.vector-icon63 {
+  position: absolute;
+  width: 4.74%;
+  top: 65.42px;
+  right: 65.61%;
+  left: 29.65%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 5.39px;
+}
+.vector-icon61,
+.vector-icon62,
+.vector-icon63 {
+  width: 4.22%;
+  top: 66.43px;
+  right: 65.86%;
+  left: 29.92%;
+  height: 3.05px;
+}
+.vector-icon62,
+.vector-icon63 {
+  width: 4.03%;
+  top: 66.1px;
+  right: 65.97%;
+  left: 29.99%;
+  height: 12.47px;
+}
+.vector-icon63 {
+  width: 0.46%;
+  top: 68.9px;
+  right: 66.87%;
+  left: 32.67%;
+  height: 1.85px;
+}
+.vector-icon64,
+.vector-icon65,
+.vector-icon66,
+.vector-icon67 {
+  position: absolute;
+  width: 0.48%;
+  top: 68.76px;
+  right: 68.55%;
+  left: 30.98%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 1.9px;
+}
+.vector-icon65,
+.vector-icon66,
+.vector-icon67 {
+  width: 1.7%;
+  top: 71.47px;
+  right: 67.11%;
+  left: 31.2%;
+  height: 9.77px;
+}
+.vector-icon66,
+.vector-icon67 {
+  width: 1.07%;
+  top: 73.14px;
+  right: 67.4%;
+  left: 31.52%;
+  height: 3.3px;
+}
+.vector-icon67 {
+  width: 1.22%;
+  top: 75.73px;
+  right: 67.31%;
+  left: 31.46%;
+  height: 1.94px;
+}
+.kuis-buah {
+  position: absolute;
+  top: 121px;
+  left: 107px;
+  font-size: var(--font-size-15xl);
+  color: var(--color-white);
+}
+.group-child259,
+.group-child260 {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  width: 311px;
+  height: 15px;
+}
+.group-child260 {
+  background-color: var(--color-seagreen-100);
+  width: 248.8px;
+}
+.div14 {
+  position: absolute;
+  top: 19px;
+  left: 0;
+  font-weight: 600;
+}
+.rectangle-parent87 {
+  position: absolute;
+  top: 175px;
+  left: 37px;
+  width: 314px;
+  height: 46px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.apakah-manfaatku {
+  position: absolute;
+  top: 411px;
+  left: 48px;
+  font-size: var(--font-size-13xl);
+  line-height: 115%;
+  font-weight: 600;
+  display: inline-block;
+  width: 293px;
+}
+.group-child261,
+.meningkatkan-energi {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 151px;
+  height: 65px;
+}
+.group-child261 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+}
+.meningkatkan-energi {
+  line-height: 115%;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-parent88,
+.rectangle-parent89,
+.rectangle-parent90,
+.rectangle-parent91 {
+  position: absolute;
+  top: 503px;
+  left: 38px;
+  width: 151px;
+  height: 65px;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+}
+.rectangle-parent89,
+.rectangle-parent90,
+.rectangle-parent91 {
+  left: 198px;
+}
+.rectangle-parent90,
+.rectangle-parent91 {
+  top: 578px;
+  left: 38px;
+}
+.rectangle-parent91 {
+  left: 198px;
+}
+.kuis-buah-lv2-4-child4,
+.kuis-buah-lv2-4-child5 {
+  position: absolute;
+  height: 4.23%;
+  width: 75.06%;
+  top: 93.08%;
+  right: 12.47%;
+  bottom: 2.7%;
+  left: 12.47%;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-palegoldenrod-200);
+}
+.kuis-buah-lv2-4-child5 {
+  height: 6.57%;
+  width: 64.63%;
+  top: 91.9%;
+  right: 17.81%;
+  bottom: 1.53%;
+  left: 17.56%;
+  background-color: var(--color-goldenrod);
+}
+.vector-icon68,
+.vuesaxboldhome-2-icon13,
+.vuesaxlinearsearch-normal-icon13 {
+  position: absolute;
+  height: 4.23%;
+  width: 9.16%;
+  top: 93.08%;
+  right: 65.14%;
+  bottom: 2.7%;
+  left: 25.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.vector-icon68,
+.vuesaxlinearsearch-normal-icon13 {
+  height: 3.99%;
+  width: 8.65%;
+  top: 93.19%;
+  right: 45.55%;
+  bottom: 2.82%;
+  left: 45.8%;
+}
+.vector-icon68 {
+  height: 3.52%;
+  width: 7.89%;
+  top: 93.43%;
+  right: 26.72%;
+  bottom: 3.05%;
+  left: 65.39%;
+}
+.kuis-buah-lv2-4 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 852px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray);
+  font-family: var(--font-poppins);
+}

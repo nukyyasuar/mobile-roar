@@ -1,0 +1,355 @@
+.kuis-buah-lv1-2-child {
+  position: absolute;
+  top: -49px;
+  left: 0;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-palegreen);
+  width: 393px;
+  height: 818px;
+}
+.group-child387 {
+  border-radius: var(--br-6xs);
+  background-color: var(--color-lightskyblue-100);
+  width: 103px;
+  height: 40px;
+}
+.group-child387,
+.next16,
+.vector-icon124 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.vector-icon124 {
+  width: 26.47%;
+  top: 5px;
+  right: 0;
+  left: 73.53%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 13px;
+}
+.next-parent14 {
+  position: absolute;
+  top: 9px;
+  left: 18px;
+  width: 68px;
+  height: 24px;
+}
+.group-child388,
+.rectangle-parent139 {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+}
+.rectangle-parent139 {
+  top: 696px;
+  left: 246px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.group-child388 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-lightsalmon-100);
+}
+.prev16,
+.vector-icon125 {
+  position: absolute;
+  top: 0;
+  left: 31px;
+}
+.vector-icon125 {
+  width: 27.27%;
+  top: 5px;
+  right: 72.73%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 13px;
+}
+.prev-parent14 {
+  position: absolute;
+  top: 9px;
+  left: 19px;
+  width: 66px;
+  height: 24px;
+}
+.rectangle-parent140 {
+  position: absolute;
+  top: 698px;
+  left: 38px;
+  width: 103px;
+  height: 40px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.kuis-buah7 {
+  position: absolute;
+  top: 121px;
+  left: 107px;
+  font-size: var(--font-size-15xl);
+  color: var(--color-white);
+}
+.group-child389,
+.group-child390 {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  width: 311px;
+  height: 15px;
+}
+.group-child390 {
+  background-color: var(--color-seagreen-100);
+  width: 124.4px;
+}
+.div22 {
+  position: absolute;
+  top: 19px;
+  left: 0;
+  font-weight: 600;
+}
+.rectangle-parent141 {
+  position: absolute;
+  top: 175px;
+  left: 38px;
+  width: 313px;
+  height: 46px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.berwarna-apakah-aku1 {
+  position: absolute;
+  top: 411px;
+  left: 48px;
+  font-size: var(--font-size-13xl);
+  line-height: 115%;
+  font-weight: 600;
+  display: inline-block;
+  width: 293px;
+}
+.group-child391 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 151px;
+  height: 65px;
+}
+.ungu {
+  position: absolute;
+  top: 21px;
+  left: 49px;
+  line-height: 115%;
+  font-weight: 600;
+}
+.rectangle-parent142 {
+  position: absolute;
+  top: 503px;
+  left: 38px;
+  width: 151px;
+  height: 65px;
+  cursor: pointer;
+}
+.hitam {
+  position: absolute;
+  top: 21px;
+  left: 43px;
+  line-height: 115%;
+  font-weight: 600;
+}
+.rectangle-parent143 {
+  position: absolute;
+  top: 503px;
+  left: 198px;
+  width: 151px;
+  height: 65px;
+  cursor: pointer;
+}
+.kuning1 {
+  position: absolute;
+  top: 21px;
+  left: 39px;
+  line-height: 115%;
+  font-weight: 600;
+}
+.rectangle-parent144 {
+  position: absolute;
+  top: 578px;
+  left: 38px;
+  width: 151px;
+  height: 65px;
+  cursor: pointer;
+}
+.hijau1 {
+  position: absolute;
+  top: 21px;
+  left: 48px;
+  line-height: 115%;
+  font-weight: 600;
+}
+.rectangle-parent145 {
+  position: absolute;
+  top: 578px;
+  left: 198px;
+  width: 151px;
+  height: 65px;
+  cursor: pointer;
+}
+.anggur-ungu-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-white);
+}
+.image-54-icon {
+  position: absolute;
+  height: 88.89%;
+  width: 93.93%;
+  top: 5.56%;
+  right: 2.88%;
+  bottom: 5.56%;
+  left: 3.19%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.anggur-ungu {
+  position: absolute;
+  top: 235px;
+  left: 40px;
+  width: 313px;
+  height: 162px;
+}
+.kuis-buah-lv1-2-inner,
+.kuis-buah-lv1-2-item {
+  position: absolute;
+  height: 4.23%;
+  width: 75.06%;
+  top: 93.08%;
+  right: 12.47%;
+  bottom: 2.7%;
+  left: 12.47%;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-palegoldenrod-200);
+}
+.kuis-buah-lv1-2-inner {
+  height: 6.57%;
+  width: 64.63%;
+  top: 91.9%;
+  right: 17.81%;
+  bottom: 1.53%;
+  left: 17.56%;
+  background-color: var(--color-goldenrod);
+}
+.vector-icon126,
+.vuesaxboldhome-2-icon21,
+.vuesaxlinearsearch-normal-icon21 {
+  position: absolute;
+  height: 4.23%;
+  width: 9.16%;
+  top: 93.08%;
+  right: 65.14%;
+  bottom: 2.7%;
+  left: 25.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.vector-icon126,
+.vuesaxlinearsearch-normal-icon21 {
+  height: 3.99%;
+  width: 8.65%;
+  top: 93.19%;
+  right: 45.55%;
+  bottom: 2.82%;
+  left: 45.8%;
+}
+.vector-icon126 {
+  height: 3.52%;
+  width: 7.89%;
+  top: 93.43%;
+  right: 26.72%;
+  bottom: 3.05%;
+  left: 65.39%;
+}
+.group-child395,
+.group-child396 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 194px;
+  height: 43px;
+}
+.group-child396 {
+  left: -4px;
+  width: 147px;
+  height: 51px;
+}
+.group-child397 {
+  position: absolute;
+  width: 16.49%;
+  top: 5px;
+  right: 80.41%;
+  left: 3.09%;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  height: 32px;
+}
+.group-child398 {
+  position: absolute;
+  width: 12.03%;
+  top: 8.84px;
+  right: 82.73%;
+  left: 5.24%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 26.16px;
+}
+.aminah59 {
+  position: absolute;
+  top: 9px;
+  left: 46px;
+}
+.lvl-159,
+.vector-parent52 {
+  position: absolute;
+  top: 9px;
+  left: 145px;
+  color: var(--color-darkslategray);
+}
+.vector-parent52 {
+  top: 45px;
+  left: 100px;
+  width: 194px;
+  height: 43px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.kuis-buah-lv1-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 852px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-poppins);
+}

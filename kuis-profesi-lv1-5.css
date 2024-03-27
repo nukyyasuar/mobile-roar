@@ -1,0 +1,273 @@
+.kuis-profesi-lv1-5-child {
+  position: absolute;
+  top: -49px;
+  left: 0;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-lightsalmon-100);
+  width: 393px;
+  height: 818px;
+}
+.apakah-pekerjaanku {
+  position: absolute;
+  top: 400px;
+  left: 48px;
+  font-size: var(--font-size-6xl);
+  line-height: 115%;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 293px;
+  height: 89px;
+}
+.kuis-profesi-lv1-5-item {
+  position: absolute;
+  top: 227px;
+  left: 40px;
+  width: 313px;
+  height: 162px;
+  object-fit: cover;
+}
+.group-child707 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-lightskyblue-100);
+  width: 103px;
+  height: 40px;
+}
+.prev25,
+.vector-icon195 {
+  position: absolute;
+  top: 0;
+  left: 31px;
+}
+.vector-icon195 {
+  width: 27.27%;
+  top: 5px;
+  right: 72.73%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 13px;
+}
+.prev-parent23 {
+  position: absolute;
+  top: 9px;
+  left: 19px;
+  width: 66px;
+  height: 24px;
+}
+.rectangle-parent228 {
+  position: absolute;
+  top: 698px;
+  left: 38px;
+  width: 103px;
+  height: 40px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.kuis-profesi10 {
+  position: absolute;
+  top: 121px;
+  left: 93px;
+  font-size: var(--font-size-15xl);
+  color: var(--color-white);
+}
+.group-child708,
+.group-child709 {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  width: 311px;
+  height: 15px;
+}
+.group-child709 {
+  background-color: var(--rad);
+}
+.div37 {
+  position: absolute;
+  top: 19px;
+  left: 0;
+  font-weight: 600;
+}
+.rectangle-parent229 {
+  position: absolute;
+  top: 175px;
+  left: 37px;
+  width: 314px;
+  height: 46px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.kuis-profesi-lv1-5-inner {
+  position: absolute;
+  top: 503px;
+  left: 198px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 151px;
+  height: 65px;
+}
+.group-child710,
+.siswa2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 151px;
+  height: 65px;
+}
+.group-child710 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+}
+.siswa2 {
+  line-height: 115%;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-parent230 {
+  top: 503px;
+  left: 38px;
+}
+.pilot2,
+.rectangle-parent230,
+.rectangle-parent231,
+.rectangle-parent232 {
+  position: absolute;
+  width: 151px;
+  height: 65px;
+  cursor: pointer;
+}
+.pilot2 {
+  top: 503px;
+  left: 198px;
+  line-height: 115%;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-parent231,
+.rectangle-parent232 {
+  top: 578px;
+  left: 38px;
+}
+.rectangle-parent232 {
+  left: 198px;
+}
+.kuis-profesi-lv1-5-child1,
+.kuis-profesi-lv1-5-child2 {
+  position: absolute;
+  height: 4.23%;
+  width: 75.06%;
+  top: 93.08%;
+  right: 12.47%;
+  bottom: 2.7%;
+  left: 12.47%;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-palegoldenrod-200);
+}
+.kuis-profesi-lv1-5-child2 {
+  height: 6.57%;
+  width: 64.63%;
+  top: 91.9%;
+  right: 17.81%;
+  bottom: 1.53%;
+  left: 17.56%;
+  background-color: var(--color-goldenrod);
+}
+.vector-icon196,
+.vuesaxboldhome-2-icon36,
+.vuesaxlinearsearch-normal-icon36 {
+  position: absolute;
+  height: 4.23%;
+  width: 9.16%;
+  top: 93.08%;
+  right: 65.14%;
+  bottom: 2.7%;
+  left: 25.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.vector-icon196,
+.vuesaxlinearsearch-normal-icon36 {
+  height: 3.99%;
+  width: 8.65%;
+  top: 93.19%;
+  right: 45.55%;
+  bottom: 2.82%;
+  left: 45.8%;
+}
+.vector-icon196 {
+  height: 3.52%;
+  width: 7.89%;
+  top: 93.43%;
+  right: 26.72%;
+  bottom: 3.05%;
+  left: 65.39%;
+}
+.group-child713,
+.group-child714 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 194px;
+  height: 43px;
+}
+.group-child714 {
+  left: -4px;
+  width: 147px;
+  height: 51px;
+}
+.aminah105,
+.lvl-1105 {
+  position: absolute;
+  top: 10px;
+  left: 50px;
+}
+.lvl-1105 {
+  left: 149px;
+  color: var(--color-darkslategray);
+}
+.group-child715 {
+  position: absolute;
+  width: 16.49%;
+  top: 6px;
+  right: 78.35%;
+  left: 5.15%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 32px;
+}
+.vector-parent97 {
+  position: absolute;
+  top: 50px;
+  left: 98px;
+  width: 194px;
+  height: 43px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.kuis-profesi-lv1-5 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 852px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-poppins);
+}

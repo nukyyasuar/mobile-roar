@@ -1,0 +1,250 @@
+.flashcard-profesi-child6,
+.flashcard-profesi-child7 {
+  position: absolute;
+  top: -4px;
+  left: -1px;
+  border-radius: 0 0 var(--br-41xl) var(--br-41xl);
+  background-color: var(--color-peachpuff);
+  width: 393px;
+  height: 608px;
+}
+.flashcard-profesi-child7 {
+  top: -31px;
+  background-color: var(--color-lightsalmon);
+  height: 614px;
+}
+.flashcard-profesi5 {
+  position: absolute;
+  top: 0;
+  left: 8px;
+  display: inline-block;
+  width: 293px;
+  height: 43px;
+}
+.group-child1258,
+.group-child1259 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-darkslategray-100);
+  width: 311px;
+  height: 15px;
+}
+.group-child1259 {
+  background-color: var(--color-palegoldenrod-100);
+}
+.div90,
+.rectangle-parent424 {
+  position: absolute;
+  top: 19px;
+  left: 0;
+}
+.rectangle-parent424 {
+  top: 54px;
+  width: 311px;
+  height: 42px;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+}
+.flashcard-profesi-container,
+.group-child1260 {
+  position: absolute;
+  top: 58px;
+  left: 40px;
+  width: 311px;
+  height: 96px;
+}
+.group-child1260 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-lightskyblue-100);
+  width: 103px;
+  height: 40px;
+}
+.prev41,
+.vector-icon320 {
+  position: absolute;
+  top: 0;
+  left: 31px;
+}
+.vector-icon320 {
+  width: 27.27%;
+  top: 5px;
+  right: 72.73%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 13px;
+}
+.prev-parent39 {
+  position: absolute;
+  top: 9px;
+  left: 19px;
+  width: 66px;
+  height: 24px;
+}
+.rectangle-parent425 {
+  position: absolute;
+  top: 698px;
+  left: 25px;
+  width: 103px;
+  height: 40px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.flashcard-profesi-child8,
+.flashcard-profesi-child9 {
+  position: absolute;
+  height: 4.27%;
+  width: 75.64%;
+  top: 92.89%;
+  right: 12.05%;
+  bottom: 2.84%;
+  left: 12.31%;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-palegoldenrod-200);
+}
+.flashcard-profesi-child9 {
+  height: 6.64%;
+  width: 65.13%;
+  top: 91.71%;
+  right: 17.44%;
+  bottom: 1.66%;
+  left: 17.44%;
+  background-color: var(--color-goldenrod);
+}
+.vector-icon321,
+.vuesaxboldhome-2-icon65,
+.vuesaxlinearsearch-normal-icon66 {
+  position: absolute;
+  height: 4.27%;
+  width: 9.23%;
+  top: 92.89%;
+  right: 65.13%;
+  bottom: 2.84%;
+  left: 25.64%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.vector-icon321,
+.vuesaxlinearsearch-normal-icon66 {
+  height: 4.03%;
+  width: 8.72%;
+  top: 93.01%;
+  right: 45.38%;
+  bottom: 2.96%;
+  left: 45.9%;
+}
+.vector-icon321 {
+  height: 3.55%;
+  width: 7.95%;
+  top: 93.25%;
+  right: 26.41%;
+  bottom: 3.2%;
+  left: 65.64%;
+}
+.group-child1261 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 340px;
+  height: 490px;
+}
+.group-child1262 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 285.95px;
+  height: 148px;
+  object-fit: cover;
+}
+.pilot-adalah-orang {
+  top: 242px;
+  left: calc(50% - 143.5px);
+  color: var(--color-black);
+  width: 290px;
+  height: 199px;
+}
+.pilot-adalah-orang,
+.pilot5,
+.pilot6 {
+  position: absolute;
+  display: inline-block;
+}
+.pilot5 {
+  top: 157px;
+  left: calc(50% - 109.5px);
+  font-size: var(--font-size-13xl);
+  width: 212px;
+  height: 49px;
+}
+.pilot6 {
+  top: 0;
+  left: -91.63px;
+  width: 91.63px;
+  height: 15px;
+}
+.icon-volume-medium1 {
+  position: absolute;
+  height: 72.57%;
+  width: 14.04%;
+  top: 27.43%;
+  right: 185.96%;
+  bottom: 0;
+  left: -100%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-frame,
+.pilot-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 115px;
+  height: 18.23px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.group-frame {
+  top: 204px;
+  left: 223.99px;
+  text-align: left;
+}
+.group-parent47 {
+  position: absolute;
+  top: 36px;
+  left: 27px;
+  width: 293px;
+  height: 441px;
+}
+.rectangle-parent426 {
+  position: absolute;
+  top: 177px;
+  left: 25px;
+  width: 340px;
+  height: 490px;
+  cursor: pointer;
+  font-size: var(--font-size-mini);
+}
+.flashcard-profesi4 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-poppins);
+}

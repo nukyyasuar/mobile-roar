@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="landing-page-unsign">
+      <div class="landing-page-unsign-child"></div>
+      <div class="landing-page-unsign-item"></div>
+      <div class="group-parent">
+        <div class="group-container">
+          <div class="rectangle-parent">
+            <div class="group-child" id="rectangle1"></div>
+            <div class="masuk">Masuk</div>
+          </div>
+          <div class="rectangle-group">
+            <div class="group-item" id="rectangle2"></div>
+            <div class="daftar">Daftar</div>
+          </div>
+        </div>
+        <img class="group-inner" alt="" src="./public/group-217.svg" />
+
+        <div class="selamat-parent">
+          <p style="font-size: 12px; position: absolute; top: -65px; color: gray;">To view the correct viewport, go to inspect and select Iphone 12 Pro dimensions</p>
+          <b class="selamat">Selamat</b>
+          <b class="datang">Datang</b>
+          <div class="aplikasi-quiz-anak">
+            Aplikasi quiz anak dengan berbagai macam pertanyaan dan level
+          </div>
+          <div class="rectangle-div"></div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var rectangle1 = document.getElementById("rectangle1");
+      if (rectangle1) {
+        rectangle1.addEventListener("click", function (e) {
+          window.location.href = "./masuk.html";
+        });
+      }
+      
+      var rectangle2 = document.getElementById("rectangle2");
+      if (rectangle2) {
+        rectangle2.addEventListener("click", function (e) {
+          window.location.href = "./daftar.html";
+        });
+      }
+      </script>
+  </body>
+</html>

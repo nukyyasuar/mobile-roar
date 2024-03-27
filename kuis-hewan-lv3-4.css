@@ -1,0 +1,348 @@
+.group-child831 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-lightskyblue-100);
+  width: 393px;
+  height: 818px;
+}
+.group-child833 {
+  border-radius: var(--br-6xs);
+  background-color: var(--color-palegreen);
+  width: 103px;
+  height: 40px;
+}
+.group-child833,
+.next30,
+.vector-icon224 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.vector-icon224 {
+  width: 26.47%;
+  top: 5px;
+  right: 0;
+  left: 73.53%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 13px;
+}
+.next-parent28 {
+  position: absolute;
+  top: 9px;
+  left: 18px;
+  width: 68px;
+  height: 24px;
+}
+.group-child834,
+.rectangle-parent277 {
+  position: absolute;
+  width: 103px;
+  height: 40px;
+}
+.rectangle-parent277 {
+  top: 743px;
+  left: 245px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.group-child834 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-lightsalmon-100);
+}
+.prev30,
+.vector-icon225 {
+  position: absolute;
+  top: 0;
+  left: 31px;
+}
+.vector-icon225 {
+  width: 27.27%;
+  top: 5px;
+  right: 72.73%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 13px;
+}
+.prev-parent28 {
+  position: absolute;
+  top: 9px;
+  left: 19px;
+  width: 66px;
+  height: 24px;
+}
+.rectangle-parent278 {
+  position: absolute;
+  top: 745px;
+  left: 37px;
+  width: 103px;
+  height: 40px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.group-child835,
+.group-child836 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 194px;
+  height: 43px;
+}
+.group-child836 {
+  left: -4px;
+  width: 147px;
+  height: 51px;
+}
+.aminah122,
+.lvl-1122 {
+  position: absolute;
+  top: 10px;
+  left: 50px;
+}
+.lvl-1122 {
+  left: 149px;
+  color: var(--color-darkslategray);
+}
+.group-child837 {
+  position: absolute;
+  width: 16.49%;
+  top: 6px;
+  right: 78.35%;
+  left: 5.15%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 32px;
+}
+.kuis-hewan1,
+.vector-parent114 {
+  position: absolute;
+  color: var(--color-white);
+}
+.vector-parent114 {
+  top: 99px;
+  left: 100px;
+  width: 194px;
+  height: 43px;
+  text-align: left;
+  font-size: var(--font-size-base);
+}
+.kuis-hewan1 {
+  top: 170px;
+  left: 92px;
+  font-size: var(--font-size-15xl);
+}
+.group-child838,
+.group-child839 {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  width: 311px;
+  height: 15px;
+}
+.group-child839 {
+  border-radius: var(--br-5xs) 0 0 var(--br-5xs);
+  background-color: var(--progress);
+  width: 248.8px;
+}
+.div44 {
+  position: absolute;
+  top: 19px;
+  left: 0;
+  font-weight: 600;
+}
+.rectangle-parent279 {
+  position: absolute;
+  top: 224px;
+  left: 37px;
+  width: 314px;
+  height: 46px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.manakah-yang-cocok1 {
+  position: absolute;
+  top: 460px;
+  left: 48px;
+  font-size: var(--font-size-13xl);
+  line-height: 115%;
+  font-weight: 600;
+  display: inline-block;
+  width: 293px;
+}
+.group-child840 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 151px;
+  height: 65px;
+}
+.insang {
+  position: absolute;
+  top: 21px;
+  left: 40px;
+  line-height: 115%;
+  font-weight: 600;
+}
+.rectangle-parent280 {
+  position: absolute;
+  top: 552px;
+  left: 38px;
+  width: 151px;
+  height: 65px;
+  cursor: pointer;
+}
+.hewan-laut {
+  top: 0;
+  left: 0;
+  line-height: 115%;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-child842,
+.hewan-laut,
+.rectangle-parent281 {
+  position: absolute;
+  width: 151px;
+  height: 65px;
+}
+.rectangle-parent281 {
+  top: 552px;
+  left: 198px;
+  cursor: pointer;
+}
+.group-child842 {
+  top: 0;
+  left: 1px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+}
+.menggong-gong,
+.rectangle-parent282 {
+  position: absolute;
+  width: 152px;
+  height: 65px;
+}
+.menggong-gong {
+  top: 0;
+  left: 0;
+  line-height: 115%;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-parent282 {
+  top: 627px;
+  left: 37px;
+  cursor: pointer;
+}
+.berbulu {
+  position: absolute;
+  top: 16px;
+  left: 37px;
+  line-height: 115%;
+  font-weight: 600;
+}
+.rectangle-parent283 {
+  position: absolute;
+  top: 627px;
+  left: 198px;
+  width: 151px;
+  height: 65px;
+  cursor: pointer;
+}
+.group-child844 {
+  position: absolute;
+  top: 286px;
+  left: 41px;
+  width: 311px;
+  height: 162px;
+  object-fit: cover;
+}
+.group-child845,
+.group-child846 {
+  position: absolute;
+  height: 4.05%;
+  width: 75.06%;
+  top: 94.82%;
+  right: 12.47%;
+  bottom: 1.13%;
+  left: 12.47%;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-palegoldenrod-200);
+}
+.group-child846 {
+  height: 6.31%;
+  width: 64.63%;
+  top: 93.69%;
+  right: 17.81%;
+  bottom: 0;
+  left: 17.56%;
+  background-color: var(--color-goldenrod);
+}
+.vector-icon226,
+.vuesaxboldhome-2-icon43,
+.vuesaxlinearsearch-normal-icon43 {
+  position: absolute;
+  height: 4.05%;
+  width: 9.16%;
+  top: 94.82%;
+  right: 65.14%;
+  bottom: 1.13%;
+  left: 25.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.vector-icon226,
+.vuesaxlinearsearch-normal-icon43 {
+  height: 3.83%;
+  width: 8.65%;
+  top: 94.93%;
+  right: 45.55%;
+  bottom: 1.24%;
+  left: 45.8%;
+}
+.vector-icon226 {
+  height: 3.38%;
+  width: 7.89%;
+  top: 95.16%;
+  right: 26.72%;
+  bottom: 1.46%;
+  left: 65.39%;
+}
+.rectangle-parent276 {
+  position: absolute;
+  top: -49px;
+  left: 0;
+  width: 393px;
+  height: 888px;
+}
+.kuis-hewan-lv3-4 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 852px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-poppins);
+}

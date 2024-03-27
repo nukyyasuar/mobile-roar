@@ -1,0 +1,144 @@
+.bush-1-icon61 {
+  position: absolute;
+  top: 51px;
+  left: 208px;
+  width: 744px;
+  height: 695px;
+  object-fit: cover;
+}
+.group-child648 {
+  position: absolute;
+  top: 398px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-moccasin);
+  width: 801px;
+  height: 889px;
+}
+.ketuk-untuk-ke61 {
+  margin: 0;
+}
+.ketuk-untuk-ke-container61 {
+  position: absolute;
+  top: 111px;
+  left: 14px;
+  line-height: 124%;
+  font-weight: 600;
+  color: var(--color-gray-100);
+}
+.yeay16 {
+  position: absolute;
+  top: 0;
+  left: 96px;
+  font-size: var(--font-size-17xl);
+}
+.jawabanmu-benar16 {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  font-size: var(--font-size-11xl);
+  font-weight: 600;
+}
+.ketuk-untuk-ke-pertanyaan-sela-parent14,
+.sun-icon16 {
+  position: absolute;
+  top: 478px;
+  left: 254px;
+  width: 300px;
+  height: 165px;
+}
+.sun-icon16 {
+  top: 0;
+  left: 292px;
+  width: 218px;
+  height: 217px;
+  object-fit: cover;
+}
+.bush-1-parent59,
+.group-child649 {
+  position: absolute;
+  top: 217px;
+  left: 268px;
+  width: 273px;
+  height: 256px;
+}
+.bush-1-parent59 {
+  top: 81px;
+  left: 0;
+  width: 801px;
+  height: 1287px;
+}
+.group-child650,
+.group-child651 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 194px;
+  height: 43px;
+}
+.group-child651 {
+  left: -4px;
+  width: 147px;
+  height: 51px;
+}
+.group-child652 {
+  position: absolute;
+  width: 16.83%;
+  top: 5px;
+  right: 78.96%;
+  left: 4.21%;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  height: 32px;
+}
+.group-child653 {
+  position: absolute;
+  width: 12.28%;
+  top: 8.84px;
+  right: 81.33%;
+  left: 6.39%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 26.16px;
+}
+.aminah95 {
+  position: absolute;
+  top: 9px;
+  left: 46px;
+}
+.lvl-195,
+.vector-parent87 {
+  position: absolute;
+  top: 9px;
+  left: 145px;
+  color: var(--color-darkslategray);
+}
+.vector-parent87 {
+  top: 0;
+  left: 308px;
+  width: 194px;
+  height: 43px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.group-parent18 {
+  position: absolute;
+  top: 50px;
+  left: -208px;
+  width: 801px;
+  height: 1368px;
+}
+.jawaban-benar31 {
+  position: relative;
+  background-color: var(--color-lightskyblue-100);
+  width: 100%;
+  height: 868px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-poppins);
+}
